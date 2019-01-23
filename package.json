@@ -1,0 +1,12 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "graphql yoga server",
+  "main": "index.js",
+  "repository": "https://github.com/delbertvibes/graphql-server.git",
+  "author": "delbert <delbertvibes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.0"
+  }
+}
